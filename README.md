@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br/>
+
+### 🐱‍🐉 Skills
+**Platforms & Languages**
+
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+
+**Tools**
+
+![Git](http://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
