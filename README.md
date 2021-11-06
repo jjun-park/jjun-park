@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Data Analysis & Planning Process & Providing Solution in Logistics
+My Goal: Data Analysis & Planning Process & Providing Solution in Logistics
 
 I'm in preparation to study Python & SQL.\
 This space is for me to show my several works.\
