@@ -2,7 +2,7 @@
 
 I'm in preparation to study Python & SQL.\
 This space is for me to show my several works.\
-If you have some question, contact to me by e-mail.\
+If you have some question, contact me at e-mail.\
 Good Luck!
 
 <!--
