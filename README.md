@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm in preparation to study Python & SQL.\
+This space is for me to show my several works.\
+If you have some question, contact to me by e-mail.\
+Good Luck!
+
 <!--
 **jjun-park/jjun-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
