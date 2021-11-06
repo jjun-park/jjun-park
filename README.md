@@ -14,7 +14,7 @@ Good Luck!
 
 ![Git](http://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
-| Type | Duty | Company | Term | Details |
+|    Type    |    Duty    | Company | Term | Details |
 | ---- | ---- | ---- | ----------- | ----- |
 | Part-time | 전산관리 | K.I.L.A. | 2020.07 ~ 2020.08 | 택배 차량 허가정보 관리 |
 | Intern | 물류기획 | Mesh Korea | 2020.08 ~ 2020.11 | 4륜+2륜 당일배송 운영/신규 TC 구축에 따른 프로세스 기획 |
